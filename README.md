@@ -1,8 +1,8 @@
 # Full Stack Developer Journey  🧑‍🎓
 ######  *Holberton School Zero-Day to Mastery*  
 
-
+[![N|Solid](https://cdn.prod.website-files.com/6105315644a26f77912a1ada/63eea844ae4e3022154e2878_Holberton.png)](https://www.holbertonschool.com/)
 
 
 ### 🙋‍♂️ Welcome to my learning journey at Holberton School! 
-#### This project tracks my progress from Day 0 to becoming a proficient *Web & Mobile Web Developer*.
+#### This is the first project.
